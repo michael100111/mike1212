@@ -1,0 +1,19 @@
+body{
+    font-family: 'poppins', sans-serif;
+}
+nav{
+    background-color: white;
+}
+nav .navbar-brand{
+    color: var(blue);
+}
+.carousel-inner .carousel-caption{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    bottom: 0;
+    top: 40%;
+    left: 0;
+    right: 0;
+}
